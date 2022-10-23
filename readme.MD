@@ -1,5 +1,4 @@
 Csapat neve:</b>
-
 Leep Dearning
 
 
